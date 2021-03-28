@@ -1,5 +1,5 @@
 
-### Notes: 
+ 
 <details>
   <summary>GitHub Pages, Markdown, Themes, Support</summary>
   
