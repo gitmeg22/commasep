@@ -3,7 +3,8 @@
 <details>
   <summary>GitHub Pages, Markdown, Themes, Support</summary>
  
-  # https://docs.github.com/en/github/working-with-github-pages
+  # Github Pages Docs
+   https://docs.github.com/en/github/working-with-github-pages
   
   ## Welcome to GitHub Pages
 
